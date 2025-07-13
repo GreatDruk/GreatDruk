@@ -9,7 +9,7 @@ When I’m not coding, you’ll find me out hiking, getting lost in Tolkien’s 
 </p>
 <br>
 <div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=greatdruk&show_icons=true&border_radius=5&theme=react&hide_rank=true&locale=en" alt="GreatDruk" />
+  <img src="https://streak-stats.demolab.com?user=GreatDruk&theme=react&border_radius=5&card_width=350&card_height=190&hide_longest_streak=true" alt="GreatDruk" />
   &nbsp;
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatdruk&layout=compact&border_radius=5&theme=react&locale=en" alt="GreatDruk" />
 </div>
