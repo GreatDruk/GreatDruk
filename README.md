@@ -10,6 +10,5 @@ When I’m not coding, you’ll find me out hiking, getting lost in Tolkien’s 
 <br>
 <div>
   <img src="https://streak-stats.demolab.com?user=GreatDruk&theme=react&border_radius=5&card_width=350&card_height=190&hide_longest_streak=true" alt="GreatDruk" />
-  &nbsp;
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatdruk&layout=compact&border_radius=5&theme=react&locale=en" alt="GreatDruk" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatdruk&layout=compact&border_radius=5&theme=react&card_width=350&locale=en" alt="GreatDruk" />
 </div>
