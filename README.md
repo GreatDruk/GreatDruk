@@ -10,5 +10,5 @@ When I’m not coding, you’ll find me out hiking, getting lost in Tolkien’s 
 <br>
 <div>
   <img src="https://github-readme-streak-stats-alpha-ebon.vercel.app?user=GreatDruk&theme=react&border_radius=5&card_width=350&card_height=190&hide_longest_streak=true" alt="GreatDruk" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatdruk&layout=compact&border_radius=5&theme=react&card_width=350&locale=en" alt="GreatDruk" />
+  <img align="top" src="https://github-readme-stats-peach-two-46ftdiohld.vercel.app/api/top-langs?username=greatdruk&layout=compact&border_radius=5&theme=react&card_width=350&locale=en" alt="GreatDruk" />
 </div>
