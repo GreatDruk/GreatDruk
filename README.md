@@ -1,11 +1,15 @@
-<h1>Hi, everybody, I'm Seva 🙃</h1>
-<h3>Innopolis University student | Mathematical Foundation of AI</h3>
+<h1>Hey, I'm Seva 🙃</h1>
+<h3>ML Engineer | Mathematical Foundations of AI @ Innopolis University</h3>
 <p>
-I’m an Innopolis University student studying the mathematical foundations of AI.
-I love diving into mathematics, programming, physics, machine learning, and artificial intelligence.
-I have built several websites and know Python, C++, JavaScript, PHP.
-I’m eager to develop my career in artificial intelligence and am already working on a few personal projects.
-When I’m not coding, you’ll find me out hiking, getting lost in Tolkien’s world, making papercraft models, or sketching whatever comes to mind.
+I'm passionate about machine learning, mathematics, and building things with Python.
+I enjoy understanding how models work, experimenting with different approaches, and figuring out what actually improves their performance.
+</p>
+<p>
+I take part in <a href="https://www.kaggle.com/sevaperetiatko">Kaggle competitions</a>, often working in a team to test ideas and solve challenging ML problems.
+I've also worked on research projects, including <a href="https://github.com/AcademicNet-ru">AcademicNet</a>, and I'm exploring LLM serving and inference optimization to make models faster and more efficient.
+</p>
+<p>
+Outside of tech, I enjoy hiking, getting lost in Tolkien's world, making papercraft models, and sketching whatever comes to mind.
 </p>
 <br>
 <div>
